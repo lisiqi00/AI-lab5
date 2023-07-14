@@ -1,0 +1,10 @@
+os
+tensorflow==2.11.0
+PIL
+numpy==1.23.1
+re
+nltk==3.8.1
+gensim==4.2.0
+keras==2.9.0
+random
+
